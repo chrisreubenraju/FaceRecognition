@@ -7,9 +7,9 @@
             "previewLimit": 50,
             "server": "localhost",
             "port": 3306,
-            "askForPassword": true,
+            "askForPassword": false,
             "driver": "MySQL",
-            "name": "new",
+            "name": "FirstConnection",
             "database": "smart-brain",
             "username": "root"
         }
